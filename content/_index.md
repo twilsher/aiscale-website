@@ -25,6 +25,20 @@ Build high-performing engineering teams that scale with your business. From tech
 **Fundraising and M&A preparation**  
 Technical preparation for fundraising rounds and acquisition processes. Help you address potential concerns before they become roadblocks, ensuring your technical organization positions you for successful outcomes.
 
+## Engagement Types
+
+- **1-3 month assessments** - Quick technical and organizational evaluation
+- **6-24 month interim roles** - Hands-on leadership during transitions
+- **Ongoing fractional CTO** - Part-time strategic and tactical support
+
+## My Philosophy
+
+**People First:** Technical problems are usually people problems in disguise. I focus on building environments where teams can do their best work through collaborative problem-solving and open communication.
+
+**Pragmatic Solutions:** Having seen both massive successes and expensive failures, I help you avoid the "shiny object syndrome" and focus on what actually moves the needle for your business.
+
+**AI as a Force Multiplier:** The companies that thrive in the next decade won't be the ones with the best AI, but the ones that best integrate AI into their operations and products.
+
 ## Experience
 
 With 20+ years in Silicon Valley and 10+ years at Twilio where I built and scaled Messaging and IoT platforms, I bring proven experience in scaling technology organizations from startup to IPO and beyond.
@@ -39,19 +53,5 @@ With 20+ years in Silicon Valley and 10+ years at Twilio where I built and scale
 - 20+ years across multiple startups and scaleups
 - Deep experience with technical scaling challenges
 - Understanding of what works (and what doesn't) at different growth stages
-
-## My Philosophy
-
-**People First:** Technical problems are usually people problems in disguise. I focus on building environments where teams can do their best work through collaborative problem-solving and open communication.
-
-**Pragmatic Solutions:** Having seen both massive successes and expensive failures, I help you avoid the "shiny object syndrome" and focus on what actually moves the needle for your business.
-
-**AI as a Force Multiplier:** The companies that thrive in the next decade won't be the ones with the best AI, but the ones that best integrate AI into their operations and products.
-
-## Engagement Types
-
-- **1-3 month assessments** - Quick technical and organizational evaluation
-- **6-24 month interim roles** - Hands-on leadership during transitions
-- **Ongoing fractional CTO** - Part-time strategic and tactical support
 
 [Contact me](mailto:contact@aiscale.no) to discuss how I can help your company scale.
