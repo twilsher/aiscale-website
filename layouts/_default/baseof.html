@@ -24,12 +24,42 @@
         a { color: #0066cc; }
         ul { padding-left: 20px; }
         li { margin-bottom: 8px; }
+        
+        /* Service accordion styles */
+        .service-item { margin-bottom: 15px; border: 1px solid #e0e0e0; border-radius: 5px; }
+        .service-header { 
+            padding: 15px 20px; 
+            cursor: pointer; 
+            background: #f8f9fa; 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center;
+            transition: background-color 0.2s;
+        }
+        .service-header:hover { background: #e9ecef; }
+        .service-title { font-weight: bold; }
+        .service-toggle { 
+            font-size: 18px; 
+            font-weight: bold; 
+            color: #0066cc; 
+            transition: transform 0.2s;
+        }
+        .service-content { 
+            padding: 0 20px; 
+            max-height: 0; 
+            overflow: hidden; 
+            transition: all 0.3s ease-out;
+            background: white;
+        }
+        .service-content.expanded { 
+            padding: 20px; 
+            max-height: 200px; 
+        }
     </style>
 </head>
 <body>
     <header>
         <nav>
-            <a href="/">Home</a>
             {{ range .Site.Menus.main }}
             <a href="{{ .URL }}">{{ .Name }}</a>
             {{ end }}
@@ -39,5 +69,20 @@
     <main>
         {{ block "main" . }}{{ end }}
     </main>
+    
+    <script>
+    function toggleService(serviceId) {
+        const content = document.getElementById(serviceId);
+        const toggle = document.getElementById('toggle' + serviceId.slice(-1));
+        
+        if (content.classList.contains('expanded')) {
+            content.classList.remove('expanded');
+            toggle.textContent = '+';
+        } else {
+            content.classList.add('expanded');
+            toggle.textContent = '−';
+        }
+    }
+    </script>
 </body>
 </html>
