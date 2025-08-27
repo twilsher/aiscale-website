@@ -8,22 +8,23 @@ ShowBreadCrumbs: false
 showBreadcrumbs: false
 ---
 
-With 20+ years in Silicon Valley and 10+ years at Twilio where I built and scaled Messaging and IoT platforms, I bring proven experience in scaling technology organizations from startup to IPO and beyond.
+I work as a fractional/interim CTO helping scaleups navigate the critical transition from "scrappy startup" to "sustainable scale." My approach combines deep technical expertise with practical organizational experience.
 
-I help growing companies execute on technical fundamentals, leverage AI for competitive advantage, and build for sustainable growth.
+## My Philosophy
 
-## Experience
+**People First:** Technical problems are usually people problems in disguise. I focus on building environments where teams can do their best work through collaborative problem-solving and open communication.
 
-**Twilio (10+ years)**
-- Head of Engineering for Messaging (Twilio's flagship product) - grew from single team to 7-team organization across 3 countries
-- Led Messaging platform through exponential growth while maintaining 5-nines uptime  
-- Head of Engineering for IoT - grew from small team to 50+ engineers across US, Germany, and UK
-- M&A due diligence and integration experience across 4+ successful acquisitions
+**Pragmatic Solutions:** Having seen both massive successes and expensive failures, I help you avoid the "shiny object syndrome" and focus on what actually moves the needle for your business.
 
-**Silicon Valley Background**
-- 20+ years across multiple startups and scaleups
-- Deep experience with technical scaling challenges
-- Understanding of what works (and what doesn't) at different growth stages
+**AI as a Force Multiplier:** The companies that thrive in the next decade won't be the ones with the best AI, but the ones that best integrate AI into their operations and products.
+
+## What Sets Me Apart
+
+**Pattern Recognition:** From founding Twilio's Messaging team to growing it into a 7-team organization generating hundreds of millions in revenue, I've lived through hypergrowth at every stage.
+
+**M&A Perspective:** Having evaluated and integrated multiple acquisitions, I understand what investors and acquirers really look for in technical organizations.
+
+**Global Team Building:** Successfully scaling teams across multiple continents (US, Europe) while maintaining culture and productivity.
 
 ## What I Do
 
