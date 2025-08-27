@@ -1,0 +1,27 @@
+baseURL = 'https://aiscale.no/'
+languageCode = 'en-us'
+title = 'AIScale - Fractional/Interim CTO & Technical Leadership'
+# theme = 'congo'
+
+[params]
+  description = "Technical leadership and fractional/interim CTO services for growing startups"
+  author = "AIScale"
+  showReadingTime = false
+  showShareButtons = false
+  showPostNavLinks = false
+  disableThemeToggle = true
+  defaultTheme = "light"
+
+[params.homeInfoParams]
+  Title = "Technical Leadership for Growing Startups"
+  Content = "Fractional/Interim CTO services combining Silicon Valley strategic experience with hands-on execution"
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+name = "Services"
+url = "/services/"
+weight = 20
