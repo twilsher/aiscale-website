@@ -29,6 +29,7 @@ With 20+ years in Silicon Valley and 10+ years at Twilio where I built and scale
 - **Fractional/Interim CTO leadership**  
 - **AI strategy and implementation roadmaps**
 - **Team scaling and process improvement**
+- **Hiring and organizational design**
 - **Fundraising and M&A preparation**
 
 [Contact me](mailto:contact@aiscale.no) to discuss how I can help your company scale.

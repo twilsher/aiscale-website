@@ -28,10 +28,14 @@ Help growing teams adopt the practices and processes that work at scale. From co
 
 Assess your technical architecture for scalability, reliability, and maintainability. Evaluate AI readiness and integration opportunities. Get actionable recommendations based on patterns that work in high-growth environments.
 
+## Hiring & Organizational Design
+
+Build high-performing engineering teams that scale with your business. From technical recruiting strategies to organizational structure design, I help you attract and retain top talent while creating the culture and processes that enable sustainable growth.
+
 ## Engagement Types
 
-- **3-month assessments** - Quick technical and organizational evaluation
-- **6-12 month interim roles** - Hands-on leadership during transitions
+- **1-3 month assessments** - Quick technical and organizational evaluation
+- **6-24 month interim roles** - Hands-on leadership during transitions
 - **Ongoing fractional CTO** - Part-time strategic and tactical support
 
 ---
