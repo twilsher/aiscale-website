@@ -3,12 +3,12 @@ title: "Technical Leadership for Growing Startups"
 description: "Fractional/Interim CTO services combining Silicon Valley strategic experience with hands-on execution"
 ---
 
-I help scaleups navigate technical challenges, AI-enable their organizations, and build for sustainable growth.
+I'm Thomas Wilsher, and I help scaleups navigate technical challenges, AI-enable their organizations, and build for sustainable growth.
 
 ## Services Offered
 
 **Technical due diligence and architecture review**  
-Having conducted due diligence for multiple acquisitions at Twilio, I help companies prepare for fundraising or M&A by identifying technical risks and opportunities before investors do.
+Experienced in due diligence (including for multiple acquisitions at Twilio), I help companies prepare for fundraising or M&A by identifying technical risks and opportunities before investors do.
 
 **Fractional/Interim CTO leadership**  
 I can step in as your technical leader during critical growth phases, fundraising, or leadership transitions. I provide hands-on leadership while helping you find and onboard a permanent CTO when the time is right.
