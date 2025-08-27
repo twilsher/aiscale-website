@@ -10,7 +10,7 @@ showBreadcrumbs: false
 
 With 20+ years in Silicon Valley and 10+ years at Twilio where I built and scaled Messaging and IoT platforms, I bring proven experience in scaling technology organizations from startup to IPO and beyond.
 
-I help growing companies execute on technical fundamentals while building for sustainable growth.
+I help growing companies execute on technical fundamentals, leverage AI for competitive advantage, and build for sustainable growth.
 
 ## Experience
 

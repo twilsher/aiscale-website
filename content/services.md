@@ -16,13 +16,17 @@ Step in as your technical leader during critical growth phases, fundraising, or 
 
 Having conducted due diligence for multiple acquisitions at Twilio, I help companies prepare for fundraising or M&A by identifying technical risks and opportunities before investors do.
 
+## AI Strategy & Implementation
+
+Help organizations develop AI adoption strategies that create real competitive advantage. From identifying high-impact use cases to building AI-enabled products and internal tools that scale your operations.
+
 ## Team & Process Scaling
 
-Help growing teams adopt the practices and processes that work at scale. From code review practices to deployment pipelines, I focus on the fundamentals that enable sustainable growth.
+Help growing teams adopt the practices and processes that work at scale. From code review practices to deployment pipelines to AI-augmented development workflows, I focus on the fundamentals that enable sustainable growth.
 
 ## Architecture Review
 
-Assess your technical architecture for scalability, reliability, and maintainability. Get actionable recommendations based on patterns that work in high-growth environments.
+Assess your technical architecture for scalability, reliability, and maintainability. Evaluate AI readiness and integration opportunities. Get actionable recommendations based on patterns that work in high-growth environments.
 
 ## Engagement Types
 

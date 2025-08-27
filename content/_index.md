@@ -3,7 +3,7 @@ title: "Technical Leadership for Growing Startups"
 description: "Fractional/Interim CTO services combining Silicon Valley strategic experience with hands-on execution"
 ---
 
-I help scaleups navigate technical challenges and build for sustainable growth.
+I help scaleups navigate technical challenges, AI-enable their organizations, and build for sustainable growth.
 
 → [**Learn more about my background**](/about/)  
 → [**View detailed services**](/services/)
@@ -27,6 +27,7 @@ With 20+ years in Silicon Valley and 10+ years at Twilio where I built and scale
 
 - **Technical due diligence and architecture review**
 - **Fractional/Interim CTO leadership**  
+- **AI strategy and implementation roadmaps**
 - **Team scaling and process improvement**
 - **Fundraising and M&A preparation**
 
