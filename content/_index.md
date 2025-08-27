@@ -20,7 +20,7 @@ I help organizations develop AI adoption strategies that create real competitive
 I help growing teams adopt the practices and processes that work at scale. From code review practices to deployment pipelines to AI-augmented development workflows, I focus on the fundamentals that enable sustainable growth.
 
 **Hiring and organizational design**  
-I build high-performing engineering teams that scale with your business. From technical recruiting strategies to organizational structure design, I help you attract and retain top talent while creating the culture and processes that enable sustainable growth.
+I build high-performing engineering teams that scale with your business. From technical recruiting strategies to organizational structure design, I can help you attract and retain top talent while creating the culture and processes that enable sustainable growth.
 
 **Fundraising and M&A preparation**  
 I provide technical preparation for fundraising rounds and acquisition processes. I help you address potential concerns before they become roadblocks, ensuring your technical organization positions you for successful outcomes.
