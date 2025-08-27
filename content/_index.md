@@ -3,6 +3,8 @@ title: "Technical Leadership for Growing Startups"
 description: "Fractional/Interim CTO services combining Silicon Valley strategic experience with hands-on execution"
 ---
 
+![Thomas Wilsher](/images/thomas-wilsher.jpg)
+
 I'm Thomas Wilsher, and I help scaleups navigate technical challenges, AI-enable their organizations, and build for sustainable growth.
 
 ## Services Offered
